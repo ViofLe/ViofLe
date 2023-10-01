@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ViofLe
+- 👋 Hi, I’m @vioflLe
 - 👀 I’m interested in hacking games and getting devs to fix them
 - 🌱 I’m currently learning Python and javascript
-- 💞️ I’m looking to collaborate nothing yet
+- 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
 
 <!---
